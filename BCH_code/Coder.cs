@@ -7,6 +7,8 @@ using System.Collections;
 
 namespace BCH_code
 {
+    //Hello!
+
     class Coder
     {
         private int n;
